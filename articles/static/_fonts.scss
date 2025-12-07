@@ -1,0 +1,13 @@
+@mixin font-face($family, $file, $weight: normal, $style: normal) {
+    @font-face {
+        font-family: $family;
+        src: url("/static/fonts/#{$family}/#{$file}.ttf") format("truetype");
+        font-weight: $weight;
+        font-style: $style;
+    }
+}
+
+@include font-face(B612, B612-Regular, normal, normal);
+@include font-face(B612, B612-Italic, normal, italic);
+@include font-face(B612, B612-Bold, bold, normal);
+@include font-face(B612, B612-BoldItalic, bold, italic);
