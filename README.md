@@ -25,3 +25,7 @@ Um das Projekt zu verwenden, wird eine funktionsfähige Installation von [Bun](h
     ```
     Dies startet einen lokalen Server unter [localhost:8080](http://127.0.0.1:8080).<br>
     Änderungen im Projekt werden automatisch erkannt und neu erstellt.
+
+## Inhalt der Seiten
+
+Hier sollen Vorgaben zu den Inhalten aufgelistet werden.
