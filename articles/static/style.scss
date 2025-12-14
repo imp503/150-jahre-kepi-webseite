@@ -1,11 +1,47 @@
 @use "_fonts.scss";
 
+$white: #ffffff;
+$black: #000000;
+
+$signal-blue: #bbd6eb;
+$signal-orange: #f5671b;
 * {
     margin: 0;
     padding: 0;
     font-family: B612;
 }
 
+
+body {
+    background-color: $white;   // weißer Hintergrund
+    color: $black;              // schwarer Text 
+    line-height: 1.6;
+}
+
+
 quote {
     white-space: pre-wrap;
 }
+.dark-section {
+    background-color: $black;
+    color: $white;
+
+    p, h1, h2, h3, h4, h5, h6 {
+        color: $white;
+
+
+    }
+.heraushebungen-blue {
+    color: $signal-blue;
+}
+
+.heraushebungen-orange {
+    color: $signal-orange;
+}
+
+.button {
+    background-color: $signal-orange;
+    color: $white;
+    border: none;
+    border-radius: 4px;
+        }
