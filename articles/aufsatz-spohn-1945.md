@@ -1,6 +1,6 @@
 ---
 layout: "article.njk"
-title: "Aufsatz Spohn"
+title: "Aufsatz Spohn 1945"
 ---
 
 
