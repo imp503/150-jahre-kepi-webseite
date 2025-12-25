@@ -1,6 +1,6 @@
 ---
 layout: "article.njk"
-title: "Aufsatz Spohn 1944"
+title: "Das Kepi im Kaiserreich"
 ---
 
 ## Das Kepi im Kaiserreich
@@ -29,8 +29,8 @@ Stunden auf dem Lehrplan der württembergischen Schüler.
     Die Bildungsreform von 1912 stellte dann den Durchbruch in der Anerkennung mit anderen
     Schularten, die zur Hochschulreife führen, dar.
     „Das humanistische Gymnasium, das Realgymnasium und die Oberrealschule sind als einander
-    gleichstehende Lehranstalten zu betrachten. Ihr Zweck ist die Vermittlung allgemeiner Bildung; 
-    dieVorbereitung auf die speziellen Berufsarten gehört zur Aufgabe der Hochschule.“ 
+    gleichstehende Lehranstalten zu betrachten. Ihr Zweck ist die Vermittlung allgemeiner Bildung;
+    dieVorbereitung auf die speziellen Berufsarten gehört zur Aufgabe der Hochschule.“
   *(Quelle: Prof. Th. Finckh: „Die Geschichte der Oberrealschule“, in: Jubiläumsfestschrift der Oberrealschule Reutlingen 1926,
   S.54)*
 </qote>
@@ -57,7 +57,7 @@ Insgesamt sind 100 Schüler und 20 Lehrer der Oberrealschule ins Heer eingetrete
 Ersten Weltkriegs wurde in der Eingangshalle am 17. Mai 1920 eine Gedenktafel angebracht.
 </qote>
 
-![kepi-kaiserreich](https://github.com/user-attachments/assets/9ea07cde-7620-4abc-a257-c8963776f74b)
+grafik
 <quote>
 
 Foto einer Feldkanonenstellung mit dem Kepi im Hintergrund. (Stadtarchiv Reutlingen: S100 F003-346)
@@ -65,7 +65,7 @@ Foto einer Feldkanonenstellung mit dem Kepi im Hintergrund. (Stadtarchiv Reutlin
 Aber auch nach dem Ende des Krieges am 11. November 1918 und dem Beginn der Weimarer Republik wirkte
 die Katastrophe des 1. Weltkrieges in den Kindern und Jugendlichen nach.
 Trotz des patriotisch gehaltenen Tons in der Jubiläumsschrift von 1926, bemerkt Prof. Th. Finckh kritisch:
-        
+
         *„Noch bis 1923 wiederholten sich die Klagen der Lehrer namentlich der unteren Klassen über
         Verminderung der geistigen Leistungsfähigkeit ihrer Schüler; es handele sich hier gerade um solche
         Jahrgänge, deren Kindheitsjahre in die Kriegszeit fielen und die in diesem für die Entwicklung wichtigen
@@ -90,9 +90,9 @@ gedrängt hatte, erfolgte am 3. Juni 1904 der Beschluss auf „Errichtung eines 
 
 Damals wie heute galt: „Auf die Lage kommt es an“: Von der Stadtverwaltung wurde bei dem neu zu
 errichtenden Schulgebäude besonders auf eine „gesunde und schöne Lage“ geachtet.
-    
+
 *„Aus der Straßen quetschender Enge, aus dem Druck von Giebeln und Dächern,aus niedriger Häuser dumpfen          Gemächern, hinauf zu Licht und Luft!“*
-    
+
 *(Quelle: Prof. Th. Finckh: „Die Geschichte der Oberrealschule“, in: Jubiläumsfestschrift der Oberrealschule
 Reutlingen 1926, S.49)*
 
@@ -101,7 +101,7 @@ Lehrschwimmbecken und ein „Brausebad“ mitbedacht. (Stadtarchiv Reutlingen: S
 
 </quote>
 
-<img width="176" height="232" alt="grafik" src="https://github.com/user-attachments/assets/b24705bf-29a1-43e7-a492-2162121cdace" />
+grafik
 
 <quote>
 
@@ -112,26 +112,27 @@ Ausführung wurde der damalige Stadtbaumeister Friedrich Krämer.
 Entwurf der Fassade. (Stadtarchiv Reutlingen: S100 G 0642)
 </quote>
 
-<img width="352" height="247" alt="grafik" src="https://github.com/user-attachments/assets/d79655d0-32f2-4511-822e-c52d7eba57f8" />
+grafik
+
 <quote>
 
 1930 wurden dann zusätzlich das lange geplante Sternwarthäusschen auf der Dachterrasse ausgebaut.
 </quote>
-<img width="522" height="336" alt="grafik" src="https://github.com/user-attachments/assets/8aec5c40-f540-4306-939d-ba3ce0df3a70" />
+grafik
 <quote>
 
 Angleichung der Bildungspläne von Württemberg und Preußen bis 1912. Quelle: Prof. Th. Finckh: „Die
 Geschichte der Oberrealschule“, in: Jubiläumsfestschrift der Oberrealschule Reutlingen 1926, S.52-
 54.
 </quote>
-<img width="489" height="657" alt="grafik" src="https://github.com/user-attachments/assets/4acbde30-3819-4a12-b7aa-dd7304e1f164" />
-<img width="463" height="620" alt="grafik" src="https://github.com/user-attachments/assets/2ab0d6a8-ecb1-496f-9c2f-6a11f69fdcb6" />
-<img width="468" height="618" alt="grafik" src="https://github.com/user-attachments/assets/45513485-d132-46e0-a802-04091cd645b3" />
+grafik
+grafik
+grafik
 
 <quote>
 Gedenkblatt für eine Goldsammlung der Oberschule Reutlingen von 1915
 </quote>
-<img width="516" height="691" alt="grafik" src="https://github.com/user-attachments/assets/11e26dcc-79da-4bfa-ba35-dc05f9b212a1" />
+grafik
 
 <quote>
 
@@ -139,30 +140,30 @@ Das Festprogramm vom 27. März 1926 mit Chor- und Orchesterauftritten, Theaterau
 Werkunterrichtsausstellungen und „Turnspielen“ zeugt von einem bunten kulturellen Leben an der Schule.
 (private Leihgabe)
 </quote>
-<img width="616" height="808" alt="grafik" src="https://github.com/user-attachments/assets/9cbde6d6-c82b-42a8-a339-f7fff347e45b" />
-<img width="559" height="713" alt="grafik" src="https://github.com/user-attachments/assets/087deb70-6537-44db-8517-20bd81a282a8" />
-<img width="611" height="869" alt="grafik" src="https://github.com/user-attachments/assets/60670304-a8dd-4d8d-80ea-618cbd92d27d" />
-<img width="605" height="873" alt="grafik" src="https://github.com/user-attachments/assets/9baaaa16-85e3-4e67-ad65-dd73066ed324" />
+grafik
+grafik
+grafik
+grafik
 
 <quote>
 Bauzeichnung des 1. Stockwerks der Realschule.
 Quelle: Stadtarchiv Reutlingen, S 100 Nr. 0643.
 </quote>
-<img width="715" height="311" alt="grafik" src="https://github.com/user-attachments/assets/6d1e3906-c306-45b3-824f-6ec82c37575c" />
+grafik
 
 <quote>
 
 Die Genehmigungsurkunde für den Bau des Realschulgebäudes, heute Altbau vom 12. November 1904.
 Quelle: Stadtarchiv Reutlingen, S 100 Nr. 0643.
 </quote>
-<img width="459" height="716" alt="grafik" src="https://github.com/user-attachments/assets/754edb4b-3794-4f79-b818-bd94bb743ead" />
+grafik
 
 <quote>
 Fotos des Gebäudes (Vorder- und Rückansicht) mit Jahnhalle und Verbindungsbau.
 Quelle: Stadtarchiv Reutlingen, S 100 G Nr. 1250 und Nr. 1253.
 </quote>
-<img width="556" height="437" alt="grafik" src="https://github.com/user-attachments/assets/90198056-e7eb-46a1-b174-fcf38a611801" />
-<img width="555" height="411" alt="grafik" src="https://github.com/user-attachments/assets/58b89251-244d-409d-9e54-4c93b1fdc676" />
+grafik
+grafik
 
 <quote>
 
@@ -170,4 +171,4 @@ Hier ist das Turnhallen-Reservelazarett auf der Rennwiese um 1915 zu sehen, in d
 große Turnhalle des Johannes-Kepler-Gymnasiums.
 Quelle: Stadtarchiv Reutlingen, S 105/3 Nr. 3689
 </quote>
-<img width="548" height="392" alt="grafik" src="https://github.com/user-attachments/assets/a70c68ed-21d9-4749-b8d0-f52886d70694" />
+grafik
