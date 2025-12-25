@@ -57,3 +57,5 @@ Insgesamt sind 100 Schüler und 20 Lehrer der Oberrealschule ins Heer eingetrete
 Ersten Weltkriegs wurde in der Eingangshalle am 17. Mai 1920 eine Gedenktafel angebracht.
 </qote>
 
+![kepi-kaiserreich](https://github.com/user-attachments/assets/9ea07cde-7620-4abc-a257-c8963776f74b)
+
