@@ -4,14 +4,15 @@ title: "Plakat 7 QR 1"
 ---
 
 
+## Eindrücke verschiedener Veranstalltungen
 Veranstaltungsposter zum Musical Hair im Jahre 1991
-poster einfügen
+<!-- @Johannes bitte poster einfügen -->
 
 Aufnahme des Musicals Hair
-Aufnahme einfügen
+<!-- @Johannes bitte Aufnahme einfügen -->
 
 Veranstaltungsplakat zum Musical Grease im Jahre 1992
-plakat einfügen
+<!-- @Johannes bitte plakat einfügen -->
 
 GEA Artikel über das Musical Grease vom 15.09.1992
 
@@ -28,6 +29,7 @@ die Choreographie sind Suzanna Fabijanić und Martin Staiger zuständig.
 </quote>
 
 Aufnahmen von Grease
-aufnahmen einfügen
+<!-- @Johannes bitte aufnahmen einfügen -->
 
 weitere Plakate der unzähligen Kepi-Veranstaltungen
+<!-- @Johannes bitte plakate einfügen -->
