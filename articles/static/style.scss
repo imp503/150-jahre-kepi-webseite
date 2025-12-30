@@ -17,7 +17,7 @@ body {
     background-color: $weiss;
     color: $schwarz;
     line-height: 1.6;
-
+    padding-left: 4px;
     @include u.dark {
         background-color: $schwarz;
         color: $weiss;
