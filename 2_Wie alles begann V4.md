@@ -1,6 +1,6 @@
 ---
 layout:"article.njk"
-titel:"2_Wie alles begann...V4.md"
+titel:"2_Wie alles begann...V4"
 ---
   
   # Wie alles begann
