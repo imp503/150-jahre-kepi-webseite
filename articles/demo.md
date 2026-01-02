@@ -13,4 +13,12 @@ Wird nur zum testen des Layouts erstellt.
 
 *Kursiver Text* **Fetter Text** ***Kursiv fetter Text*** <signal>Signaltext</signal>
 
+<u>Unterstrichene Texte</u> möglichst vermeiden!
+
+|         | Spalte 1 | Spalte 2 | Spalte 3 |
+| ------- | :------- | :------: | -------: |
+| Zeile 1 | a        | b        | c        |
+| Zeile 2 | d        | e        | f        |
+| Zeile 3 | g        | h        | i        |
+
 <button onclick="alert('Hi!')">Test button</button>
