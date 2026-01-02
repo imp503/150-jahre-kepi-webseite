@@ -6,12 +6,12 @@ titel:"2_Wie alles begann...V4"
   # Wie alles begann
 
 
- ---   
+   
  1810
  1834  <!--@Johannes bitte noch eine tabelle draus machen-->
  1837
  1876
- ---
+ 
 
 Die Geschichte des Johannes-Kepler-Gymnasium hat viele Meilensteine und reicht bis in die Anfänge des württembergischen Realschulwesens zurück. Daher gab man im Jahre 1985 eine Überblickbroschüre mit 
 dem Titel "175 Jahre Kepi Reutlingen" heraus, weil man sich auf die Eröffnung der ersten Realklasse an der Lateinschule in Reutlingen im Jahre 1810 bezog. Diese wurden nach 8 Jahren allerdings wieder 
