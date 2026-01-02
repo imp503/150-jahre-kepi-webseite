@@ -6,7 +6,7 @@ title: "Wie alles begann"
 # Wie alles begann
 
 Die Geschichte des Johannes-Kepler-Gymnasium hat viele Meilensteine und reicht bis in die Anfänge des württembergischen Realschulwesens zurück. Daher gab man im Jahre 1985 eine Überblickbroschüre mit 
-dem Titel "175 Jahre Kepi Reutlingen" heraus, weil man sich auf die Eröffnung der ersten Realklasse an der Lateinschule in Reutlingen im Jahre 1810 bezog. Diese wurden nach 8 Jahren allerdings wieder 
+dem Titel "175 Jahre Kepi Reutlingen" heraus, weil man sich auf die Eröffnung der ersten Realklasse an der Lateinschule in Reutlingen im **Jahre 1810** bezog. Diese wurden nach 8 Jahren allerdings wieder 
 geschlossen.
 Nach jahrelangem Engagement des Tübinger Professors H.C.W. Siegwart erging am 28. März 1831 der Beschluss des Stiftungsrates un des Bürgerausschusses auf Gründung einer Realschule in Reutlingen. 
 Siegwart begründet den Bedarf einer Alternative zur Lateinschule damals mit mangelnder Unterricht in den Naturwissenswchaften und säumigen Lateinschülern. 
@@ -16,17 +16,17 @@ Siegwart begründet den Bedarf einer Alternative zur Lateinschule damals mit man
                                                 das ihrer Meinung nach ihnen entbehrliche Latein gleichgültig, und man muss [...] ihnen gestatten, während des öffentlichen Unterrichts im Latein sich 
                                                 mit dem Französichemn zu beschäftigen."
                                                                     (Prof. Th. Finckh:" Die Geschichte der Oberrealschule", in: Jubiläumsfestschriften der Oberrealschule Reutlingen 1926,S.16)
-Am 7.April 1834 wurde dann die ersten Realklasse, damals noch unter der Leistung des Rektors der Lateinschule im 1727/28 errichteten Gesamtschulhaus der Stadt (Altes Lyzeum) neben der Marienkirche 
+Am **7.April 1834** wurde dann die ersten Realklasse, damals noch unter der Leistung des Rektors der Lateinschule im 1727/28 errichteten Gesamtschulhaus der Stadt (Altes Lyzeum) neben der Marienkirche 
 eröffnet. in dieser Klasse wurde altersgemischt für 12-14 jährige Jungen unterrichtet.
 
-Errichtung einer Oberrealklasse im Herbst 1837 parallel zu Oberrealklassen in Tübingen und Heilbronn.
+Errichtung einer **Oberrealklasse im Herbst 1837** parallel zu Oberrealklassen in Tübingen und Heilbronn.
            Die Wahl der Unterrichtsfächer war den Schülern zunächst vollkommen freigestellt, die Meisten waren "Teilzeitschüler" und gingen zeitgleich noch einer beruflichen Ausbildung nach.
 
-1874-1876 folgte der Ausbau zur "Volksanstalt" mit zehn Klassenstufen.
+**1874-1876 folgte der Ausbau zur "Volksanstalt" mit zehn Klassenstufen.
 Der wichtigste Meilenstein:
-Am 12. Und 13. September 1876 fanden die ersten Abturprüfungen an der Johannes-Kepler-Oberrealschule mit 7 Absolventen statt.
+Am 12. Und 13. September 1876 fanden die ersten Abturprüfungen an der Johannes-Kepler-Oberrealschule mit 7 Absolventen statt.**
           Das Aufsatzthema der ersten  Deutschprüfung lautete:"WISSEN IST MACHT"
           Zeitgleich entschließ auch auch die Schwesteranstalt in Stuttgart ihre  ersten Realschulabiturient*innen.
-17.September 1906 wurdde das Schulgebäude der Oberrealschule (heutiger Altbau) eingeweiht.
+**17.September 1906 wurdde das Schulgebäude der Oberrealschule (heutiger Altbau) eingeweiht.**
 Damals wie heute,auf die Lage kommt es an: Von der Stadtverwaltung wurde bei den neu zu errichtenden Schulgebäude besonders auf eine "gesunde und schüne Lage " geachtet.
 "Aus der Straßen quetschender Enge, aus dem Druck von Giebeln und Dächern, aus niedriger Häuser drupfen Gemächern, hinauf zu Licht und Luft!"
