@@ -22,3 +22,7 @@ Wird nur zum testen des Layouts erstellt.
 | Zeile 3 | g        | h        | i        |
 
 <button onclick="alert('Hi!')">Test button</button>
+
+## Bild
+
+![Tomate](/static/media/demo/tomate.jpg "Tooltip")
