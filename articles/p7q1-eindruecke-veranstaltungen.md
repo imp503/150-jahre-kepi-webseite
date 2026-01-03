@@ -1,6 +1,6 @@
 ---
 layout: "article.njk"
-title: "Plakat 7 QR 1"
+title: "Eindrücke verschiedener Veranstaltungen"
 ---
 
 

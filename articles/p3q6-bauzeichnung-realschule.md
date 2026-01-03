@@ -1,6 +1,6 @@
 ---
 layout: "article.njk"
-title: "Bauzeichnung"
+title: "Bauzeichnung Realschule"
 ---
 
 # Bauzeichnung
@@ -8,6 +8,6 @@ title: "Bauzeichnung"
 <quote>
 Bauzeichnung des 1. Stockwerks der Realschule.
 Quelle: Stadtarchiv Reutlingen, S 100 Nr. 0643.
-</quote> 
+</quote>
 
 <!-- @Johannes bitte noch bild einfügen -->
