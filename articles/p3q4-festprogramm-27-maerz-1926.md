@@ -11,7 +11,11 @@ Werkunterrichtsausstellungen und „Turnspielen“ zeugt von einem bunten kultur
 (private Leihgabe)
 </quote>
 
-<!-- @Johannes bitte noch bild einfügen -->
-<!-- @Johannes bitte noch bild einfügen -->
-<!-- @Johannes bitte noch bild einfügen -->
-<!-- @Johannes bitte noch bild einfügen -->
+
+![Einladung](p3-fotos/Einladung.pdf)
+
+![Festordnung](p3-fotos/Festordnung.pdf)
+
+![Festrogramm](p3-fotos/Festprogramm.pdf)
+
+![7 Uhr](p3-fotos/Geselliges.pdf)
