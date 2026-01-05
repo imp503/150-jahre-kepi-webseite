@@ -10,4 +10,4 @@ Die Genehmigungsurkunde für den Bau des Realschulgebäudes, heute Altbau vom 12
 Quelle: Stadtarchiv Reutlingen, S 100 Nr. 0643.
 </quote>
 
-<!-- @Johannes bitte noch bild einfügen -->
+![Foto](p3-fotos/Gehnemigung.png)
