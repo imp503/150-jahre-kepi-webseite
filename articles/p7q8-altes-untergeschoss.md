@@ -5,4 +5,4 @@ title: "Altes Untergeschoss"
 
 
 ## Das Untergeschoss vor dem Umbau mit Hausmeisterwohnung
-<!-- @Johannes bitte  bild einfügen -->
+![Foto](/static/media/plakat-7/untergeschoss.jpg)
