@@ -11,4 +11,4 @@ große Turnhalle des Johannes-Kepler-Gymnasiums.
 Quelle: Stadtarchiv Reutlingen, S 105/3 Nr. 3689
 </quote>
 
-<!-- @Johannes bitte noch bild "Herunterladen.png" einfügen -->
+![Foto](p3-fotos/Herunterladen.png)
