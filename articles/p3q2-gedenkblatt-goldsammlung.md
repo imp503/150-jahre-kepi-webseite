@@ -4,4 +4,5 @@ title: "Gedenkblatt Goldsammlung"
 ---
 
 # Gedenkblatt für eine Goldsammlung der Oberrealschule Reutlingen von 1915
-<!-- @Johannes bitte noch bild einfügen -->
+
+![Foto](p3-fotos/IMG_0804.jpeg)
