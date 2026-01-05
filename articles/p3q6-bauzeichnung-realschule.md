@@ -10,4 +10,4 @@ Bauzeichnung des 1. Stockwerks der Realschule.
 Quelle: Stadtarchiv Reutlingen, S 100 Nr. 0643.
 </quote>
 
-![Foto](p3-fotos/Plan.jpg)
+![Foto](/static/media/plakat-3/Plan.jpg)

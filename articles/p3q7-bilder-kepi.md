@@ -10,6 +10,6 @@ Fotos des Gebäudes (Vorder- und Rückansicht) mit Jahnhalle und Verbindungsbau.
 Quelle: Stadtarchiv Reutlingen, S 100 G Nr. 1250 und Nr. 1253.
 </quote>
 
-![Foto](p3-fotos/herunterladen.png)
+![Foto](/static/media/plakat-3/herunterladen.jpg)
 
-![Foto](p3-fotos/Verbindung.jpg)
+![Foto](/static/media/plakat-3/Verbindung.jpg)

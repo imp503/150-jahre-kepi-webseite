@@ -12,10 +12,10 @@ Werkunterrichtsausstellungen und „Turnspielen“ zeugt von einem bunten kultur
 </quote>
 
 
-![Foto](p3-fotos/Einladung.png)
+![Foto](/static/media/plakat-3/Einladung.jpg)
 
-![Foto](p3-fotos/Festordnung.png)
+![Foto](/static/media/plakat-3/Festordnung.jpg)
 
-![Foto](p3-fotos/Festprogramm.png)
+![Foto](/static/media/plakat-3/Festprogramm.jpg)
 
-![Foto](p3-fotos/Festprogramm_rückseite.png)
+![Foto](/static/media/plakat-3/Festprogramm_rückseite.jpg)
