@@ -11,6 +11,8 @@ Geschichte der Oberrealschule“, in: Jubiläumsfestschrift der Oberrealschule R
 54
 </quote>
 
-<!-- @Johannes bitte noch bild einfügen -->
-<!-- @Johannes bitte noch bild einfügen -->
-<!-- @Johannes bitte noch bild einfügen -->
+![Foto](p3-fotos/IMG_4988.jpg)
+
+![Foto](p3-fotos/IMG_4989.jpg)
+
+![Foto](p3-fotos/IMG_4990.jpg)
