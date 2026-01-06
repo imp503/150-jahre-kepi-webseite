@@ -1,3 +1,4 @@
+import build from "./obfuscate.js";
 import path from "node:path";
 import * as sass from "sass";
 
@@ -31,4 +32,6 @@ export default async function (eleventyConfig) {
     eleventyConfig.addTemplateFormats("scss");
     eleventyConfig.addPassthroughCopy("articles/static/fonts");
     eleventyConfig.addPassthroughCopy("articles/static/media/**/*.jpg");
+
+    eleventyConfig.on("eleventy.after", async ({ directories, results, runMode, outputMode }) => await build());
 }
