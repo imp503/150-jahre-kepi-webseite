@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "sass": "^1.94.1"
+    "sass": "^1.94.1",
+    "qrcode": "^1.5.4"
   }
 }

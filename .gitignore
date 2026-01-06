@@ -4,6 +4,7 @@ node_modules
 # output
 site
 site-obf
+qr-codes
 out
 dist
 *.tgz
