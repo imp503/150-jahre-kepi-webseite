@@ -101,4 +101,6 @@ export default async function build() {
 
         await copyDir(srcPath, destPath);
     }
+
+    await copyFile(path.join(SRC_DIR, "robots.txt"), path.join(DEST_DIR, "robots.txt"));
 }

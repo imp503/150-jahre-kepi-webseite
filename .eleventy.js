@@ -30,6 +30,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.setOutputDirectory("site");
     eleventyConfig.setInputDirectory("articles");
     eleventyConfig.addTemplateFormats("scss");
+    eleventyConfig.addPassthroughCopy("articles/robots.txt");
     eleventyConfig.addPassthroughCopy("articles/static/fonts");
     eleventyConfig.addPassthroughCopy("articles/static/media/**/*.jpg");
 
