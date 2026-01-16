@@ -50,7 +50,7 @@ async function hash(string) {
 async function genQr(path, data) {
     try {
         await QRCode.toFile(path, `https://150.jkg-rt.de/${data}`, {
-            type: "png",
+            type: "svg",
             errorCorrectionLevel: "M",
             margin: 2,
             width: 256,
@@ -82,7 +82,7 @@ export default async function build() {
             const destPath = path.join(DEST_DIR, entry.name);
             await copyDir(srcPath, destPath);
             if (!(await fs.readdir(srcPath, { withFileTypes: true })).find((file) => file.name === "index.html")) continue;
-            const qrPath = path.join(QR_DIR, `${entry.name}.png`);
+            const qrPath = path.join(QR_DIR, `${entry.name}.svg`);
             await genQr(qrPath, `${entry.name}`);
             continue;
         }
@@ -96,7 +96,7 @@ export default async function build() {
         const qrName = entry.name.split("-").slice(1).join("-");
         const qrParentDir = path.join(QR_DIR, `plakat-${plakatIndex}`);
         ensureDir(qrParentDir);
-        const qrPath = path.join(qrParentDir, `qr-${qrIndex}-${qrName}.png`);
+        const qrPath = path.join(qrParentDir, `qr-${qrIndex}-${qrName}.svg`);
         genQr(qrPath, `${hashName}`);
 
         await copyDir(srcPath, destPath);
