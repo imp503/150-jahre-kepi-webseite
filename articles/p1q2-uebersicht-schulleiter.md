@@ -1,9 +1,10 @@
 ---
 layout: "article.njk"
-title: "Platzhalter!"
+title: "Übersicht Schulleiter"
 ---
 
 # Gesamt hatte das Johannes Kepler Gymnasium 29 Schulleiter
+
 <quote>
 Der erste von insgesamt 29 Schulleitern war Christof Eberhard Finckh,
 er war Rektor der Lateinschule von 1837 bis 1843.
@@ -35,4 +36,4 @@ Er wurde durch Rainer Leonhardt ersetzt. Leonhardt war bis 1996 Rektor.
 Nach ihm wurde Bernhard Bosold Rektor, er wurde noch im gleichen Jahr von Wolf-Günter Felmy abgelöst.
 Felmy war bis 2002 Schulleiter. Ihm folgte Hans Selinka, welche bis 2017 Rektor war. Nach ihm wurde der aktuelle 
 Schulleiter Thomas Moser Rektor.
-
+</quote>
