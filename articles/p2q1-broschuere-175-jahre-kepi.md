@@ -1,6 +1,6 @@
 ---
 layout: "article.njk"
-titel: "2_Wie alles begann...V4 QR1"
+titel: "Wie alles begann"
 ---
   
 # Wie alles begann
