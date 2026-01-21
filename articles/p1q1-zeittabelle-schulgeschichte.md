@@ -1,9 +1,9 @@
 ---
 layout: "article.njk"
-title: "Platzhalter!"
+title: "Zeittabelle Schulgeschchte"
 ---
 
-# Zeittabelle der Schulgeschichte
+# Zeitstrahl der Schulgeschichte
 
 <quote>
 
@@ -264,7 +264,7 @@ Das Profilfach IMP wird eingeführt.
 Schließung aufgrund von der Corona-Pandemie.
 
 **2022**
-Beitritt zum Netzwerk „Schule ohne Rassismus – Schule mit Courage“
+Beitritt zum Netzwerk „Schule ohne Rassismus – Schule mit Courage“.
 
 **2024**
 Beitritt zum Schulnetzwerk Baden-Württemberg.
@@ -273,4 +273,4 @@ Beitritt zum Schulnetzwerk Baden-Württemberg.
 Wiedereinführung von G9.
 
 **2026**
-Jubiläumsjahr „150 Jahre Johannes-Kepler-Gymnasium“
+Jubiläumsjahr „150 Jahre Johannes-Kepler-Gymnasium“.
