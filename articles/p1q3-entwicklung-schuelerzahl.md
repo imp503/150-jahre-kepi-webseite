@@ -1,6 +1,8 @@
 ---
 layout: "article.njk"
-title: "Platzhalter!"
+title: "Entwicklung Schüleranzahl"
 ---
 
-# Diese Seite ist noch nicht fertig!
+# Säulendiagramm zur Entwicklung der Schülerzahl
+
+![Foto](/static/media/plakat-1/qr-3-Entwicklung-schuelerzahl.jpg)
