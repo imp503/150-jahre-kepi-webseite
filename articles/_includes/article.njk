@@ -8,6 +8,31 @@
         <title>{{ title }}</title>
     </head>
     <body>
+        <div class="header">
+            <span class="header-element header-left">
+                <svg viewBox="0 0 400 100" height="3rem" xmlns="http://www.w3.org/2000/svg">
+                    <polygon points="5,12 5,95 88,95" fill="#37658a3f" />
+                    <polygon points="12,5 95,5 95,88" fill="#37658a38" />
+                    <polygon points="105,88 105,5 188,5" fill="#37658a2f" />
+                    <polygon points="112,95 195,95 195,12" fill="#37658a28" />
+                    <polygon points="205,12 205,95 288,95" fill="#37658a1f" />
+                    <polygon points="212,5 295,5 295,88" fill="#37658a18" />
+                    <polygon points="305,88 305,5 388,5" fill="#37658a0f" />
+                </svg>
+            </span>
+            <span class="header-shrink"></span>
+            <span class="header-element header-right">
+                <p>150 Jahre Kepi</p>
+                <img src="/static/media/icon.svg"/>
+            </span>
+        </div>
+        <div class="title">
+            <div class="title-left">{{ title }}</div>
+            <svg viewBox="0 0 400 100" height="4.2rem" xmlns="http://www.w3.org/2000/svg">
+                <polygon points="0,0 0,100 400,0" fill="#37658a" />
+                <polygon points="0,0 0,90 360,0" fill="#487294" />
+            </svg>
+        </div>
         <main>
             {{ content | safe }}
         </main>

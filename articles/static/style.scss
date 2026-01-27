@@ -1,11 +1,8 @@
 @use "_fonts";
 @use "_utils" as u;
 
-$weiss: #f0efe7;
-$schwarz: #222225;
-
-$signal-blau: #bbd6eb;
-$signal-orange: #f5671b;
+$white: #f0efe7;
+$blue-dark: #37658a;
 
 * {
     margin: 0;
@@ -13,30 +10,99 @@ $signal-orange: #f5671b;
     font-family: B612;
 }
 
-body {
-    background-color: $weiss;
-    color: $schwarz;
-    line-height: 1.6;
-    padding-left: 4px;
-    @include u.dark {
-        background-color: $schwarz;
-        color: $weiss;
-    }
-}
-
-button {
-    background-color: $signal-orange;
-    color: $weiss;
-    border: none;
-    border-radius: 4px;
-    padding: 4px;
-    cursor: pointer;
-}
-
 quote {
     white-space: pre-wrap;
 }
 
-signal {
-    color: $signal-orange;
+body {
+    background-color: #050f17;
+}
+
+.header {
+    background-color: $white;
+    display: flex;
+    height: 3rem;
+}
+
+.header-shrink {
+    flex-grow: 1;
+}
+
+.header-element {
+    flex-shrink: 1;
+}
+
+.header-left {
+    position: absolute;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+}
+
+.header-right p {
+    display: inline;
+    margin-right: 1rem;
+    font-weight: bold;
+}
+
+.header-right img {
+    height: 2rem;
+    padding-right: 0.5rem;
+}
+
+.title {
+    color: $white;
+    display: flex;
+    overflow: hidden;
+}
+
+.title-left {
+    background-color: $blue-dark;
+    height: 1.2rem;
+    padding: 1.5rem;
+    font-weight: bold;
+    font-variant-caps: small-caps;
+}
+
+.title svg {
+    flex: 0 0 auto;
+}
+
+main {
+    margin-inline: auto;
+    max-width: min(100vw - 2rem, 64rem);
+    margin-top: min(min(4rem, 12.25rem - 12.5vw), 2rem);
+    color: $white;
+}
+
+h1, h2 {
+    margin: 0.2rem 0 0.4rem 0;
+}
+
+p {
+    margin: 0 0 0.2rem 0;
+}
+
+ul {
+    margin: 0.4rem 0 0.4rem 2rem;
+}
+
+table {
+    width: 100%;
+    margin: 0.4rem 0.5rem 0.4rem 0.5rem;
+    border-collapse: collapse;
+    line-height: 1.5;
+}
+
+thead th {
+    font-weight: bold;
+    text-align: left;
+    padding: 0.8rem 0.9rem;
+}
+
+main img {
+    margin: 0.2rem;
+    width: 100%;
 }

@@ -11,7 +11,7 @@ Wird nur zum testen des Layouts erstellt.
 - Item 2
 - Item 3
 
-*Kursiver Text* **Fetter Text** ***Kursiv fetter Text*** <signal>Signaltext</signal>
+*Kursiver Text* **Fetter Text** ***Kursiv fetter Text***
 
 <u>Unterstrichene Texte</u> möglichst vermeiden!
 
@@ -20,8 +20,6 @@ Wird nur zum testen des Layouts erstellt.
 | Zeile 1 | a        | b        | c        |
 | Zeile 2 | d        | e        | f        |
 | Zeile 3 | g        | h        | i        |
-
-<button onclick="alert('Hi!')">Test button</button>
 
 ## Bild
 

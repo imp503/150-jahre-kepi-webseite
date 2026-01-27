@@ -1,18 +1,18 @@
-import build from "./obfuscate.js";
 import path from "node:path";
 import * as sass from "sass";
+import build from "./obfuscate.js";
 
 export default async function (eleventyConfig) {
     eleventyConfig.addExtension("scss", {
         outputFileExtension: "css",
         useLayouts: false,
         compile: async function (inputContent, inputPath) {
-            let parsed = path.parse(inputPath);
+            const parsed = path.parse(inputPath);
             if (parsed.name.startsWith("_")) {
                 return;
             }
 
-            let result = sass.compileString(inputContent, {
+            const result = sass.compileString(inputContent, {
                 loadPaths: [
                     parsed.dir || ".",
                     this.config.dir.includes,
@@ -21,7 +21,7 @@ export default async function (eleventyConfig) {
 
             this.addDependencies(inputPath, result.loadedUrls);
 
-            return async (data) => {
+            return async (_) => {
                 return result.css;
             };
         },
@@ -33,6 +33,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("articles/robots.txt");
     eleventyConfig.addPassthroughCopy("articles/static/fonts");
     eleventyConfig.addPassthroughCopy("articles/static/media/**/*.jpg");
+    eleventyConfig.addPassthroughCopy("articles/static/media/**/*.svg");
 
-    eleventyConfig.on("eleventy.after", async ({ directories, results, runMode, outputMode }) => await build());
+    eleventyConfig.on("eleventy.after", async ({ _directories, _results, _runMode, _outputMode }) => await build());
 }
