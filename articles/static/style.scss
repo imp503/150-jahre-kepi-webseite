@@ -1,5 +1,4 @@
 @use "_fonts";
-@use "_utils" as u;
 
 $white: #f0efe7;
 $blue-dark: #37658a;
@@ -68,12 +67,51 @@ body {
 
 .title svg {
     flex: 0 0 auto;
+    transform: translate(-1px, 0);
+}
+
+.footer {
+    background-color: #487294;
+    color: #142533;
+}
+
+.footer-a {
+    height: 4rem;
+    background-color: #37658a;
+}
+
+.footer-b {
+    height: 12rem;
+    @media (min-width: 32rem) {
+        height: 6rem;
+    }
+    display: flex;
+    align-items: end;
+    flex-wrap: wrap;
+}
+
+.footer-left, .footer-right {
+    padding: 1rem;
+    flex: 1;
+    min-width: 16rem;
+}
+
+.footer-right {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.footer-right a {
+    color: #142533;
+    text-align: right;
 }
 
 main {
     margin-inline: auto;
     max-width: min(100vw - 2rem, 64rem);
     margin-top: min(min(4rem, 12.25rem - 12.5vw), 2rem);
+    margin-bottom: 2rem;
     color: $white;
 }
 
