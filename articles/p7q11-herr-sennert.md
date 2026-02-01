@@ -1,6 +1,8 @@
 ---
 layout: "article.njk"
-title: "Platzhalter!"
+title: "Herr Sennert"
 ---
 
-# Diese Seite ist noch nicht fertig!
+<audio controls>
+    <source src="/static/media/audio/herr-sennert.mp3" type="audio/mpeg" />
+</audio>

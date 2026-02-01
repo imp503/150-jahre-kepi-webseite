@@ -1,6 +1,8 @@
 ---
 layout: "article.njk"
-title: "Platzhalter!"
+title: "Frau Nebel"
 ---
 
-# Diese Seite ist noch nicht fertig!
+<audio controls>
+    <source src="/static/media/audio/frau-nebel.mp3" type="audio/mpeg" />
+</audio>

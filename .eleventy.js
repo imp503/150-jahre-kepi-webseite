@@ -34,6 +34,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("articles/static/fonts");
     eleventyConfig.addPassthroughCopy("articles/static/media/**/*.jpg");
     eleventyConfig.addPassthroughCopy("articles/static/media/**/*.svg");
+    eleventyConfig.addPassthroughCopy("articles/static/media/audio/*.mp3");
 
     eleventyConfig.on("eleventy.after", async ({ _directories, _results, _runMode, _outputMode }) => await build());
 }

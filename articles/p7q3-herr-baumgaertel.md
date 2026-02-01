@@ -1,6 +1,8 @@
 ---
 layout: "article.njk"
-title: "Platzhalter!"
+title: "Herr Baumgärtel"
 ---
 
-# Diese Seite ist noch nicht fertig!
+<audio controls>
+    <source src="/static/media/audio/herr-baumgaertel.mp3" type="audio/mpeg" />
+</audio>
