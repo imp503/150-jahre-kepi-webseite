@@ -1,9 +1,9 @@
 ---
 layout: "article.njk"
-title: "Das Kepi wird 100 !"
+title: "Das Kepi wird 100!"
 ---
 
-# Das Kepi wird 100 !
+# Das Kepi wird 100!
 
 <quote>
 1976 feierte das Kepi sein 100jähriges Jubiläum und veranstaltete ein mehrere Tage

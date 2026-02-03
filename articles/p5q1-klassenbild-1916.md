@@ -39,18 +39,14 @@ Unsere Zeitzeugen äußerten sich rückblickend so:
 
 <br /><br />
 
-### Fotografie aus dem Jahre 1916
-<quote>
-„Schulklasse mit Julius Rieth im Klassenzimmer“
-Quelle: Stadtarchiv Reutlingen, S105 Nr. 249 / 34 A
-</quote>
+**Fotografie aus dem Jahre 1916:** „Schulklasse mit Julius Rieth im Klassenzimmer“
 
 ![Foto](/static/media/plakat-5/Foto1.1.jpg "1916 Exkurs")
+<small>(Quelle: Stadtarchiv Reutlingen, S105 Nr. 249 / 34 A)</small>
 
-### Fotografie aus der Nachkriegszeit
-<quote>
-von der Tanzstunde mit den Mädchen vom IKG und den Jungen der JKO
-Quelle: Privatarchiv von Herrn Spohn
-</quote>
+<br /><br />
+
+**Fotografie aus der Nachkriegszeit** von der Tanzstunde mit den Mädchen vom IKG und den Jungen der JKO
 
 ![Foto](/static/media/plakat-5/Foto1.2.jpg )
+<small>(Quelle: Privatarchiv von Herrn Spohn)</small>
