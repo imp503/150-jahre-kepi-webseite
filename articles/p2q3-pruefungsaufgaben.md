@@ -13,3 +13,6 @@ uns heute noch vor.
 ![Foto](/static/media/plakat-2/IMG_0882.jpg)
 ![Foto](/static/media/plakat-2/IMG_0883.jpg)
 ![Foto](/static/media/plakat-2/IMG_0884.jpg)
+
+<small>(Quelle: Schulnachrichten über die Realanstalt zu Reutlingen, Stadtarchiv Reutlingen,
+1876-1899 D 564)</small>
