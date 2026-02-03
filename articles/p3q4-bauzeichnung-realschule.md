@@ -7,7 +7,8 @@ title: "Bauzeichnung Realschule"
 
 <quote>
 Bauzeichnung des 1. Stockwerks der Realschule.
-Quelle: Stadtarchiv Reutlingen, S 100 Nr. 0643.
 </quote>
 
 ![Foto](/static/media/plakat-3/Plan.jpg)
+
+<small>(Quelle: Stadtarchiv Reutlingen, S 100 Nr. 0643)</small>
