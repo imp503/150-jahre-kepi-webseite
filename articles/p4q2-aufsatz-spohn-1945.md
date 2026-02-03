@@ -75,7 +75,7 @@ gegen 10 Uhr schlichen wir uns nach Hause
 und brachten die Nacht vollends in
 unseren Betten zu. Die ganze Nacht war
 es unruhig und am Morgen ging das
-Schießen wieder los. Ich schaute (hehlingen?)
+Schießen wieder los. Ich schaute hehlingen (=heimlich)
 zum Fenster hinaus, sah und hörte aber
 nichts, als das Geschrei der Plünderer und
 das Pfeifen und Einschlagen der Geschosse.
@@ -97,3 +97,7 @@ Einmarsch hinter uns hatten, und
 das Leben wieder seinen alten Lauf
 nahm.
 </quote>
+
+![Foto](/static/media/plakat-4/aufsatz-spohn-1.jpg)
+![Foto](/static/media/plakat-4/aufsatz-spohn-2.jpg)
+![Foto](/static/media/plakat-4/aufsatz-spohn-3.jpg)
