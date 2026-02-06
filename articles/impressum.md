@@ -29,7 +29,16 @@ Fax: (07121) 303-4504
 ## Redaktionelle Verantwortung für Inhalt und Layout
 
 ### Erstellung und Zusammenstellung der Inhalte
-*Geschichte-AG Platzhalter*
+
+Pauline Böbel <br />
+Antonia Dullstein <br />
+Antonia Fink <br />
+Linnéa Klütz <br />
+Sergiy Vasylenko <br />
+Jule Zieger <br />
+Lotta Zieger <br />
+Almuth Ansorge <br />
+Dinah Fleury <br />
 
 ### Erstellen der Webseite und des Layouts
 
@@ -41,7 +50,7 @@ Fax: (07121) 303-4504
 
 **Plakat 1:** Can Kaya (10c) und Theo Dwenger (9d)
 
-**Plakat 2:** Ben Schulz (9d)
+**Plakat 2:** Ben Schulz (9d) und Johannes Preiser (10c)
 
 **Plakat 3:** Niklas Träger (9d)
 
