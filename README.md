@@ -26,6 +26,12 @@ Um das Projekt zu verwenden, wird eine funktionsfähige Installation von [Bun](h
     Dies startet einen lokalen Server unter [localhost:8080](http://127.0.0.1:8080).<br>
     Änderungen im Projekt werden automatisch erkannt und neu erstellt.
 
-## Inhalt der Seiten
+## Lizenzierung & Urheberrecht
 
-Hier sollen Vorgaben zu den Inhalten aufgelistet werden.
+- **Quellcode:** Die 11ty-Konfiguration, Build-Skripte und Template-Dateien in diesem Repository stehen unter der Mozilla Public License 2.0 (MPL-2.0). Details finden Sie in der Datei LICENSE.
+
+- **Artikel & Texte:** Alle redaktionellen Inhalte im Ordner articles/ unterliegen dem Urheberrecht der Geschichte-AG des Johannes Kepler Gymnasiums Reutlingen. Alle Rechte vorbehalten. Die Inhalte fallen ausdrücklich nicht unter die MPL-Lizenz.
+
+- **Bilder & Medien:** Alle Bilder und weitere Medien im Ordner sowie articles/static/media/ bleiben Eigentum der jeweiligen Rechteinhaber (wie in den jeweiligen Artikeln angegeben) sofern nicht explizit anders angegeben. Alle Rechte vorbehalten.
+
+- **Schriftarten:** Die Schriftart B612 im Ordner articles/static/fonts/B612/ ist unter der SIL Open Font License 1.1 lizenziert.
